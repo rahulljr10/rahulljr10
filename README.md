@@ -63,6 +63,4 @@ I use GitHub to show how I build, document, and improve software over time. My b
 ## Connect
 
 - GitHub: [github.com/rahulljr10](https://github.com/rahulljr10)
-- LinkedIn: Add your LinkedIn URL here
-- Portfolio: Add your portfolio URL here
-- Email: Add a professional email here
+- Open to software development, full-stack, and AI-assisted product engineering opportunities.
