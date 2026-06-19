@@ -1,66 +1,60 @@
 # Rahul Khatri
 
-Full-stack developer based in Mumbai, building practical web products, backend systems, and AI-assisted developer workflows.
+## AI-First Digital Marketing & Automation Specialist
 
-I like turning ideas into usable software: clean interfaces, simple APIs, thoughtful product flows, and code that is easy to understand after the first read.
+Digital marketer with 3+ years of experience across SEO, performance marketing, social media, content, branding, and team leadership. I use AI as a core production layer to research, write, analyze, create, and automate marketing work.
 
-## Focus Areas
+I build AI agents, no-code/low-code workflows, and vibe-coded tools that help teams improve campaign execution and scale output without scaling manual work.
 
-- Full-stack web development
-- Backend APIs and product infrastructure
-- AI-assisted tooling and automation
-- UI/UX-focused web experiences
-- Practical, deployable project builds
+## What I Do
 
-## Tech I Work With
+- SEO strategy, technical audits, on-page optimization, and link building
+- Google Ads and Meta Ads focused on ROAS, CPA, CTR, and lead quality
+- AI-assisted content, ad copy, research, reporting, and creative production
+- n8n and Zapier automations connecting forms, CRMs, email, content, APIs, and webhooks
+- Task-specific AI agents, reusable prompt systems, and Claude Skills
+- AI image, video, UGC, and marketing creative workflows
+- Social media, email, WhatsApp, content, and brand strategy
+- Marketing team leadership, delivery reviews, and stakeholder reporting
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## AI & Marketing Toolkit
 
-## Featured Projects
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### bydtrnd-studio
+## Selected AI Builds
 
-A frontend web project focused on building a polished, visual-first digital experience.
+### Google Ads Prompt Builder
 
-- Built with HTML and web fundamentals
-- Good candidate for a live demo, screenshots, and UI case-study notes
-- Next improvement: add a detailed README with preview images and deployment link
+Built a self-contained tool using real ad-performance data to identify top-converting and underperforming ad groups and accelerate campaign creation.
 
-### biyo-backend
+### RootAI
 
-A JavaScript backend project that can be shaped into a strong API-focused portfolio piece.
+Building an AI hair-loss coaching product with an AI chat coach, progress and habit tracking, community features, and WhatsApp nudges. I designed the product, screens, and go-to-market direction.
 
-- Built with JavaScript
-- Good candidate for API documentation, route examples, and setup instructions
-- Next improvement: document architecture, environment variables, and local development flow
+### AI SEO & Thumbnail Systems
 
-### havealook
+Created reusable Claude-based workflows that generate client SEO audit and onboarding kits, along with vidIQ-ready YouTube thumbnail briefs from a URL.
 
-A frontend project that can be positioned as a clean interface or product prototype.
+### AI UGC Automation Toolkit
 
-- Built with HTML and web fundamentals
-- Good candidate for visual screenshots and a short product explanation
-- Next improvement: add live demo, feature list, and implementation notes
+Built a workflow for producing and adapting AI-assisted UGC ad creative at volume using image and video generation tools.
 
-## What I Am Improving Now
+## Current Role
 
-- Making projects more production-ready
-- Writing better documentation and setup guides
-- Building stronger full-stack portfolio projects
-- Practicing clean UI, API design, and deployment workflows
+Senior Digital Marketing Specialist at Draftss, owning strategy and execution across SEO, paid ads, social, email, content, branding, reporting, and marketing automation.
 
-## Profile Goals
+## Open To
 
-I use GitHub to show how I build, document, and improve software over time. My best repositories are intended to show practical problem solving, product thinking, and steady engineering progress.
+AI marketing, growth marketing, digital marketing, marketing automation, SEO, and performance marketing opportunities, including remote roles.
 
 ## Connect
 
 - GitHub: [github.com/rahulljr10](https://github.com/rahulljr10)
-- Open to software development, full-stack, and AI-assisted product engineering opportunities.
+- Email: [rahulkhatri0707@gmail.com](mailto:rahulkhatri0707@gmail.com)
